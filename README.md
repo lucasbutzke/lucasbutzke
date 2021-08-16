@@ -7,7 +7,7 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I am currently in the last year of my Masters, working with hardware and software for Electrical Impedance Tomography, developing an image reconstruction equipment using PyEIT.
+- 🔭 I am currently in the last year of my Masters, working with hardware and software for Electrical Impedance Tomography, developing an equipment for image reconstruction using PyEIT.
 - 🌱 I’m currently learning real-time embedded firmware and DSP optimization.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
