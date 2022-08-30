@@ -7,13 +7,13 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I am currently in the last year of my Masters, working with hardware and software for Electrical Impedance Tomography (EIT), developing an equipment for image reconstruction using PyEIT.
+- 👨‍💻 Current Role: Firmware/Network Engineer.
 - 🌱 I’m currently learning real-time embedded firmware and DSP optimization.
 - 👯 I’m looking to collaborate on IoT projects, digital processing and acquisition hardware.
-- 🤔 I'm looking for help setting up external libraries 😅.
+- 🔭 I am currently in the last year of my Masters, working with hardware and software for Electrical Impedance Tomography (EIT), developing an equipment for image reconstruction using PyEIT.
+- 🤔 I'm looking for help setting up external libraries.
 - 💬 Ask me about EIT, asynchronous data transmission and DSP.
 - 📫 How to reach me: lucascbutzke@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Quantizing digital filters is not easy (╯°□°）╯︵ ┻━┻.
 
 <!-- <div>
